@@ -3,8 +3,7 @@
        alt="GitHub Profile Picture">
 </div>
 
-
-<img src="https://raw.githubusercontent.com/M0nica/lohith2/master/gh-header-image-cropped.png" alt="banner that says Lohith Kumar Reddy Kondreddy - Tech Enthusiast">
+<img src="https://raw.githubusercontent.com/lohith2/master/gh-header-image-cropped.png" alt="banner that says Lohith Kumar Reddy Kondreddy - Tech Enthusiast">
 I am an enthusiastic programmer who is committed to crafting sophisticated solutions and constantly delving into the boundless potential of coding. My journey as a lifelong learner is marked by a deep dedication to innovation and exploration within the world of programming
 </img>
 
