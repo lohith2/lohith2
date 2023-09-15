@@ -20,6 +20,13 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png" />
 <p align="center">
   <h4>
+ - Crafting Next-Gen Applications | Bridging the Gap with Code
+ 
+ - From Software Engineering to Solutions Architecture | Building for Scale & Efficiency
+ 
+ - I do fullstack and a bit of everything :heart:
+ 
+ - All About living life at its best.
 
 🚀 **Elevating Technology Ecosystems**
 
@@ -42,17 +49,6 @@ I believe that code isn't just a tool; it's a medium of expression. It's how we 
 I'm always open to new opportunities and collaborations. If you're passionate about leveraging technology to drive meaningful change, let's chat! Together, we can turn ideas into reality and shape a future powered by code.
 
 ---
-
-Feel free to customize and tweak this introduction to better reflect your own style and aspirations. Good luck with your studies and future endeavors!</h4>
-</p>
-
- - Crafting Next-Gen Applications | Bridging the Gap with Code
- 
- - From Software Engineering to Solutions Architecture | Building for Scale & Efficiency
- 
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
  
  <p align="center">
   <h4> Software Development | Competitive Programming </h4>
@@ -62,7 +58,7 @@ Feel free to customize and tweak this introduction to better reflect your own st
 
 <p align="center" >
 <a href="https://github.com/lohith2/github-readme-stats"> 
-    <img  src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png"/>
+    <img  src=""/>
   </a>
 
 </p>
