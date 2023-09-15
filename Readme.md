@@ -20,6 +20,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png" />
 <p align="center">
   <h4>
+     
  - Crafting Next-Gen Applications | Bridging the Gap with Code
  
  - From Software Engineering to Solutions Architecture | Building for Scale & Efficiency
@@ -58,7 +59,7 @@ I'm always open to new opportunities and collaborations. If you're passionate ab
 
 <p align="center" >
 <a href="https://github.com/lohith2/github-readme-stats"> 
-    <img  src=""/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
 
 </p>
