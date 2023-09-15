@@ -20,8 +20,6 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png" />
 <p align="center">
   <h4>
-  <br></br>
-  <br></br>
 
      
  - Crafting Next-Gen Applications | Bridging the Gap with Code
