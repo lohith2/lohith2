@@ -64,10 +64,6 @@ I'm always open to new opportunities and collaborations. If you're passionate ab
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/lohith2/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=lohith2&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-  </a>
 <p align="center" ><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohith2&show_icons=true&locale=en&layout=compact" alt="lohith2" /></p>
 </p>
 
