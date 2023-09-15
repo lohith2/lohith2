@@ -4,7 +4,10 @@
 </div>
 
 <p align='center'>
-   <a href="">LinkedIn<img height="30" src="https://img.icons8.com/?size=2x&id=13930&format=png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/lohith-456b/"><img height="30" src="https://img.icons8.com/?size=2x&id=13930&format=png"></a>&nbsp;&nbsp;
+   
+   <a href="https://lohithkumarreddy-portfolio.netlify.app/"><img height="30" src="https://img.icons8.com/?size=2x&id=LoyAjcvVKv1K&format=png"></a>&nbsp;&nbsp;
+                 
  </p>
 
 
