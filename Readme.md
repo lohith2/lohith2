@@ -17,11 +17,9 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="" />
 <p align="center">
-  <h3>Certainly! Here's a creative and impactful way to present your background:
-
----
+  <h6>
 
 🚀 **Elevating Technology Ecosystems**
 
@@ -45,7 +43,7 @@ I'm always open to new opportunities and collaborations. If you're passionate ab
 
 ---
 
-Feel free to customize and tweak this introduction to better reflect your own style and aspirations. Good luck with your studies and future endeavors!</h3>
+Feel free to customize and tweak this introduction to better reflect your own style and aspirations. Good luck with your studies and future endeavors!</h6>
 </p>
 
  - Crafting Next-Gen Applications | Bridging the Gap with Code
