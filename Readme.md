@@ -17,9 +17,9 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png" />
 <p align="center">
-  <h6>
+  <h4>
 
 🚀 **Elevating Technology Ecosystems**
 
@@ -43,7 +43,7 @@ I'm always open to new opportunities and collaborations. If you're passionate ab
 
 ---
 
-Feel free to customize and tweak this introduction to better reflect your own style and aspirations. Good luck with your studies and future endeavors!</h6>
+Feel free to customize and tweak this introduction to better reflect your own style and aspirations. Good luck with your studies and future endeavors!</h4>
 </p>
 
  - Crafting Next-Gen Applications | Bridging the Gap with Code
