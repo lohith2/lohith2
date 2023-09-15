@@ -1,16 +1,9 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="">Lohith</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
-   
+   <h1>Hi there, I'm <a href="">Lohith</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>  
 </div>
-
 <p align='center'>
    <a href="https://www.linkedin.com/in/lohith-456b/"><img height="30" src="https://img.icons8.com/?size=2x&id=13930&format=png"></a> <a href=""><img height="30" src="https://img.icons8.com/?size=2x&id=LoyAjcvVKv1K&format=png"></a>          
  </p>
- <p align='center'>
-    <a href=""><img height="30" src="https://img.icons8.com/?size=2x&id=LoyAjcvVKv1K&format=png"></a>
- </p>
-
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Lohith Kumar Reddy Kondreddy | 💻 Software Developer | MSSE @ San Jose State University<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -26,7 +19,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm a 23 year old Software Developer</h3>
+  <h3><b> I'm a 23 year old Software Developer currently persuing my masters at San Jose State University with good professional experience at Amazon web services(AWS) and LTI Mindtree</b></h3>
 </p>
 
  - Crafting Next-Gen Applications | Bridging the Gap with Code
