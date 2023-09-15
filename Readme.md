@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="">Lohith</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>  
 </div>
 <p align='center'>
-   <a href="https://www.linkedin.com/in/lohith-456b/"><img height="30" src="https://img.icons8.com/?size=2x&id=13930&format=png"></a> <a href=""><img height="30" src="https://img.icons8.com/?size=2x&id=LoyAjcvVKv1K&format=png"></a>          
+   <a href="https://www.linkedin.com/in/lohith-456b/"><img height="30" src="https://img.icons8.com/?size=2x&id=13930&format=png"></a> <a href=""><img height="30" src="https://img.icons8.com/?size=2x&id=LoyAjcvVKv1K&format=png"></a>   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohith2&label=Profile%20views&color=0e75b6&style=flat" alt="lohith2" /> </p>         
  </p>
 
 <div align="center">
@@ -30,8 +30,9 @@
  
  - All About living life at its best.
 
+ - 📫 Feel free to get in touch with me at **lohitreddygms123@gmail.com**
 
-
+ - 📄 My resume is available for viewing **[here](https://drive.google.com/file/d/1K3jR4g4MHfV4S_72ToP3t0xPuB5OsiiA/view?usp=sharing)**
 
 
 🚀 **Elevating Technology Ecosystems**
