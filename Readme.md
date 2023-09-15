@@ -19,7 +19,33 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3><b> I'm a 23 year old Software Developer currently persuing my masters at San Jose State University with good professional experience at Amazon web services(AWS) and LTI Mindtree</b></h3>
+  <h3>Certainly! Here's a creative and impactful way to present your background:
+
+---
+
+🚀 **Elevating Technology Ecosystems**
+
+Hey there! I'm a 23-year-old tech enthusiast on a mission to revolutionize the digital landscape. Currently, I'm honing my skills further at San Jose State University, pursuing a master's degree. This academic pursuit is the next step in a journey that has seen me soar through the clouds at Amazon Web Services, where I helped build resilient and scalable cloud solutions.
+
+🌐 **Code is my Canvas**
+
+With a wealth of professional experience and a deep-seated passion for innovation, I've also been a vital force at LTI Mindtree. Here, I honed my craft, turning lines of code into seamless, user-centric experiences. From crafting elegant back-end solutions to engineering robust front-end interfaces, I thrive in the dynamic world of software development.
+
+🔧 **Crafting Tomorrow's Solutions**
+
+I'm not just a developer; I'm a visionary problem solver. I'm driven by a commitment to craft solutions that don't just meet today's needs but anticipate tomorrow's challenges. With a keen eye for detail and an insatiable hunger for learning, I'm always at the cutting edge of technology.
+
+🌟 **The Future is Code**
+
+I believe that code isn't just a tool; it's a medium of expression. It's how we shape the world around us. Whether it's building cloud architectures that power global enterprises or creating intuitive user interfaces that redefine experiences, I'm at the forefront of innovation.
+
+🔗 **Let's Connect!**
+
+I'm always open to new opportunities and collaborations. If you're passionate about leveraging technology to drive meaningful change, let's chat! Together, we can turn ideas into reality and shape a future powered by code.
+
+---
+
+Feel free to customize and tweak this introduction to better reflect your own style and aspirations. Good luck with your studies and future endeavors!</h3>
 </p>
 
  - Crafting Next-Gen Applications | Bridging the Gap with Code
@@ -30,9 +56,6 @@
  
  - All About living life at its best.
  
- - Want to know more about me  <a href="https://lohithkumarreddy-portfolio.netlify.app/">Portfolio<img height="30" src=""></a>&nbsp;&nbsp;
- </p>
- 
  <p align="center">
   <h4> Software Development | Competitive Programming </h4>
    </p>
@@ -40,8 +63,8 @@
 <!--  -->
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+<a href="https://github.com/lohith2/github-readme-stats"> 
+    <img  src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png"/>
   </a>
 
 </p>
