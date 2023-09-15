@@ -63,11 +63,8 @@ I'm always open to new opportunities and collaborations. If you're passionate ab
    </p>
 
 <!--  -->
-
 <p align="center" ><img align="" width="500px" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohith2&show_icons=true&locale=en&layout=compact" alt="lohith2" /></p>
 </p>
-
-<br />
 
 ### - Languages and Tools...
 
