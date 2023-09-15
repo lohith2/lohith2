@@ -4,7 +4,7 @@
 </div>
 
 <p align='center'>
-   <a href=""><img height="30" src="https://raw.githubusercontent.com/lohith2/lohith2/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href=""><img height="30" src="https://img.icons8.com/?size=2x&id=118979&format=png"></a>&nbsp;&nbsp;
  </p>
 
 
