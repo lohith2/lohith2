@@ -28,7 +28,7 @@
  
  - I do fullstack and a bit of everything :heart:
  
- - All About living life at its best.
+ - All about living life at its best.
 
  - 📫 Feel free to get in touch with me at **lohitreddygms123@gmail.com**
 
