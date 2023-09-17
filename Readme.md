@@ -32,7 +32,7 @@
 
  - 📫 Feel free to get in touch with me at **lohitreddygms123@gmail.com**
 
- - 📄 My resume is available for viewing **[here](https://drive.google.com/file/d/1K3jR4g4MHfV4S_72ToP3t0xPuB5OsiiA/view?usp=sharing)**
+ - 📄 My resume is available for viewing **[here](https://drive.google.com/file/d/15HHlTCLrGynLj_2R7db84K3rGEmd8BWM/view?usp=sharing)**
 
 <br></br>
 
